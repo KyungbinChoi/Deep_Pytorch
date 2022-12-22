@@ -1,1 +1,3 @@
-MINST_data/*
+t10k*
+*ubyte
+*.gz
