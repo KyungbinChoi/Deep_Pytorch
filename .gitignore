@@ -2,3 +2,4 @@ t10k*
 *ubyte
 *.gz
 notebooks/results/*
+notebooks/CIFAR10/*
