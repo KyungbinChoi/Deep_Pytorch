@@ -1,5 +1,5 @@
 t10k*
 *ubyte
 *.gz
-notebooks/results/*
-notebooks/CIFAR10/*
+Pytorch_DL/results/*
+Pytorch_DL/CIFAR10/*
