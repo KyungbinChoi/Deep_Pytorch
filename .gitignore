@@ -3,3 +3,4 @@ t10k*
 *.gz
 Pytorch_DL/results/*
 Pytorch_DL/CIFAR10/*
+*.pt
